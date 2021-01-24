@@ -1,5 +1,5 @@
-# Getting Started with Create React App
-
+# Video-Call-app
+<img src='https://github.com/BashirMohamedAli/video-call-app/blob/main/src/components/img/Video-call-App.png' />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
